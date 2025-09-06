@@ -123,7 +123,7 @@ export default function App() {
   };
 
   return (
-    <div style={{ minHeight: "100vh", backgroundColor: "#f2fff2", width: "100%", padding: 20 }}>
+    <div style={{ minHeight: "100vh", backgroundColor: "#FFF0E1", width: "100%", padding: 20 }}>
       <div style={{ maxWidth: 900, margin: "0 auto" }}>
         <h1 style={{ textAlign: "center", fontFamily: "Brush Script MT, cursive", fontSize: 50, color: "#064420" }}>
           Lista de regalos
